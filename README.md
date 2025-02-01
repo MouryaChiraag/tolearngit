@@ -1,2 +1,2 @@
 # tolearngit
-I am creating this repository to learn git from scratch to advanced level.
+I am creating this repository to learn Git from scratch to advanced level.
